@@ -1,0 +1,12 @@
+# Ignore directories
+
+documents/
+design/
+wp-content/uploads/*
+wp-content/upgrade/*
+
+# Ignore files
+
+.DS_Store
+*.zip
+*.gz
