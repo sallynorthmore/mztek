@@ -1,0 +1,10 @@
+  # submit file for email form
+    
+    Tag-Required:	name
+    
+    Tag-Default	comments	""
+    
+    Email-file	em.template
+    Email-to	sophie.mcdonald@gmail.com
+    
+    Return-document:	em-done.html

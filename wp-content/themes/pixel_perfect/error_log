@@ -1,0 +1,5 @@
+[23-Mar-2012 09:01:48] PHP Fatal error:  Call to undefined function  get_header() in /home1/mztekorg/public_html/wp-content/themes/pixel_perfect/index.php on line 11
+[23-Mar-2012 09:01:49] PHP Fatal error:  Call to undefined function  get_header() in /home1/mztekorg/public_html/wp-content/themes/pixel_perfect/index.php on line 11
+[23-Mar-2012 09:01:52] PHP Fatal error:  Call to undefined function  get_header() in /home1/mztekorg/public_html/wp-content/themes/pixel_perfect/index.php on line 11
+[23-Mar-2012 09:01:52] PHP Fatal error:  Call to undefined function  get_header() in /home1/mztekorg/public_html/wp-content/themes/pixel_perfect/index.php on line 11
+[30-May-2012 02:59:16] PHP Fatal error:  Call to undefined function  get_header() in /home1/mztekorg/public_html/wp-content/themes/pixel_perfect/index.php on line 11

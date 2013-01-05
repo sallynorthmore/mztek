@@ -1,0 +1,10 @@
+    Subject: Comments from EM form
+    
+    Comments from:  ~name
+    ~?~:email==yes ~{-
+    Email:          ~email
+    ~}-
+    
+    Comments:
+    ~comments
+    
